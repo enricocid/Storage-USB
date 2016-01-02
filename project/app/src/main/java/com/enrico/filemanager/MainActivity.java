@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
     Intent intent = new Intent();
 
     @Override
-    public void onCreate(Bundle savedInstaces) {
+    public void onCreate(Bundle savedInstanceState) {
 
         intent.setAction(STORAGE_SETTINGS);
 
@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
 
         startActivity(intent);
         finish();
-        super.onCreate(savedInstaces);
+        super.onCreate(savedInstanceState);
     }
 
 }
