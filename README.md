@@ -21,12 +21,12 @@ Google Play Store
 
 F-Droid
 
-<a href="gnegne">
+<a href="https://f-droid.org/repository/browse/?fdid=com.enrico.filemanager">
   <img alt="Get it on F-Droid"       src="https://raw.githubusercontent.com/enricocid/Stores_badges/master/fdroid.png" />
 </a>
 
 Amazon appstore
 
-<a href="gnegne">
+<a href="http://www.amazon.com/Iven-Storage-USB-Settings/dp/B01AZI5L5U/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1453576688&sr=1-1&keywords=storage+%26+usb+settings">
   <img alt="Get it on Amazon appstore"       src="https://raw.githubusercontent.com/enricocid/Stores_badges/master/amazon.png" />
 </a>
