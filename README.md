@@ -10,9 +10,26 @@ Icons made by <a href="http://www.flaticon.com/authors/google" title="Google">Go
 
 You can download the latest (2.0) signed APK from this repo here: https://github.com/enricocid/Storage-USB/raw/master/project/app/app-release.apk
 
-It's also on Google Play:
+
+The app is available on:
+
+Google Play Store
 
 <a href="https://play.google.com/store/apps/details?id=com.enrico.filemanager">
   <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+       src="https://raw.githubusercontent.com/enricocid/lffl-feed-reader/master-as/art/gplay.png" />
+</a>
+
+F-Droid
+
+<a href="gnegne">
+  <img alt="Get it on F-Droid"
+       src="https://raw.githubusercontent.com/enricocid/lffl-feed-reader/master-as/art/fdroid.png" />
+</a>
+
+Amazon appstore
+
+<a href="gnegne">
+  <img alt="Get it on Amazon appstore"
+       src="https://raw.githubusercontent.com/enricocid/lffl-feed-reader/master-as/art/amazon.png" />
 </a>
