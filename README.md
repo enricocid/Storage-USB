@@ -12,6 +12,13 @@ It's also on Google Play:
        src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="60"/>
 </a>
 
+and on F-Droid:
+
+<a href="https://f-droid.org/repository/browse/?fdfilter=storage&fdid=com.enrico.filemanager&fdpage=2" target="_blank">
+  <img alt="Get it on Google Play"
+       src="https://f-droid.org/badge/get-it-on.png" height="60"/>
+</a>
+
 Icons made by <a href="http://www.flaticon.com/authors/google" title="Google">Google</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>
 
 
