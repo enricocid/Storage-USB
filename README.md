@@ -3,7 +3,7 @@
 
 Simple app (15KB) to launch Storage Settings directly from the apps drawer
 
-![ScreenShot](https://raw.githubusercontent.com/enricocid/Storage-USB/master/art/icon.png)
+![ScreenShot](https://raw.githubusercontent.com/enricocid/Storage-USB/master/art/icon2.png)
 
 The app is available on:
 
@@ -21,6 +21,6 @@ F-Droid
 
 
 
-![ScreenShot](https://raw.githubusercontent.com/enricocid/Storage-USB/master/art/art.png)
+![ScreenShot](https://raw.githubusercontent.com/enricocid/Storage-USB/master/art/art2.png)
 
 You can download the latest (2.0.3) signed APK from this repo here: https://github.com/enricocid/Storage-USB/raw/master/project/app/app-release.apk
